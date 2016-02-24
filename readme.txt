@@ -1,0 +1,3 @@
+This project uses Parrot Bebop SDK, based on a RC sample code.
+Added Position Control and Trajectory Following to the drone.
+Note that in the SDK, the sensor frame and the actuator frame are different.
